@@ -3,7 +3,8 @@
 Tradução para português do Brasil de **Is It Wrong to Try to Pick Up Girls in a
 Dungeon? Infinite Combate** (PC / Steam).
 
-<img width="1983" height="793" alt="guia-steam" src="https://github.com/user-attachments/assets/6ce8a8e1-a36e-40bb-bcf1-ba59bc912193" />
+<img width="2048" height="768" alt="nexus" src="https://github.com/user-attachments/assets/92021fb6-7d3c-4dd3-9209-34f46ca21992" />
+
 
 O jogo inteiro: a história, o menu e a arte.
 
